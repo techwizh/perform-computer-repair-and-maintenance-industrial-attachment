@@ -8,7 +8,7 @@ The documentation is intended for:
 
 * Industrial attachment reference
 * TVET/CDACC practical assessments
-* ICT students
+* ICT student
 * Computer technicians
 * Anyone learning computer repair and maintenance
 
